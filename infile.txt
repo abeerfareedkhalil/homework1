@@ -1,0 +1,1 @@
+s[0] equal to,h,s[1] equal to,e,s[2] equal to,l,s[3] equal to,l,s[4] equal to,o,s[5] equal to, ,len(s) equal to,10,s.startwith("e") equal to,flase
